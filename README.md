@@ -1,5 +1,6 @@
-![Header](https://github.com/Bulldog-sl/Bulldog-sl/blob/main/assets/clipdoncomputer%20copy.png)
-## I'm a beginner QA Engineer
+# <p align="center"> Привет, меня зовут Вячеслав! </p>
+
+ <p align="center"> <img loading="lazy" src="https://github.com/Bulldog-sl/Bulldog-sl/blob/main/assets/clipdoncomputer%20copy.png" width="400"> </p>
 
 ---
 
