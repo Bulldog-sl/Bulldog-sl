@@ -1,5 +1,4 @@
-![Header](https://github.com/Bulldog-sl/Bulldog-sl/blob/main/assets/clipdoncomputer%20copy.png width="420" height="297")
-
+![Header](https://github.com/Bulldog-sl/Bulldog-sl/blob/main/assets/clipdoncomputer%20copy.png)
 ## I'm a beginner QA Engineer
 
 ---
