@@ -1,6 +1,6 @@
 # <p align="center"> Привет, меня зовут Вячеслав! </p>
 
- <p align="center"> <img loading="lazy" src="https://github.com/Bulldog-sl/Bulldog-sl/blob/main/assets/clipdoncomputer%20copy.png" width="400"> </p>
+ <p align="center"> <img loading="lazy" src="https://github.com/Bulldog-sl/Bulldog-sl/blob/main/Pictures/1714089042121_bulletin.png" width="300"> </p>
 
 ---
 
