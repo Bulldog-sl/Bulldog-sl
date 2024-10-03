@@ -18,6 +18,7 @@
 
 - [тест-кейс 1](https://docs.google.com/spreadsheets/d/1HZXtEAyZLyQZYPUcE6da34P8SdXfz_AR/edit?usp=sharing&ouid=117776258038580103271&rtpof=true&sd=true)
 - [Тест-кейс + тестовый набор 1](https://docs.google.com/spreadsheets/d/1fcfe8l5AaCyksPcZd16lH6hepA_F--CX9jL9kp7E84Y/edit?usp=sharing)
+- [Тест-план](https://docs.google.com/document/d/1Xe2fgcbcZISYt7YPpkelnLCUDRpf0LJd/edit?usp=sharing&ouid=117776258038580103271&rtpof=true&sd=true)
 
 ✔ Коллекции в Postman
 
