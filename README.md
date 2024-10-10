@@ -53,4 +53,4 @@
 
 ### 📁 Сертификаты доп. образования:
 
-# <img src="https://github.com/Bulldog-sl/Bulldog-sl/blob/main/Certificates/PNG/stepik-certificate-Alex%20Smith.jpg"  width="420" height="297" style="max-width: 100%;"> <img src="https://github.com/Bulldog-sl/Bulldog-sl/blob/main/Certificates/PNG/stepik-certificate-Rusov%20A.jpg" width="420" height="297" style="max-width: 100%;">
+# <img src="https://github.com/Bulldog-sl/Bulldog-sl/blob/main/Certificates/PNG/stepik-certificate-Alex%20Smith.jpg"  width="420" height="297" style="max-width: 100%;"> <img src="https://github.com/Bulldog-sl/Bulldog-sl/blob/main/Certificates/PNG/stepik-certificate-Rusov%20A.jpg" width="420" height="297" style="max-width: 100%;"> <img src="https://github.com/Bulldog-sl/Bulldog-sl/blob/main/Certificates/PNG/SQL%20Introduction(ru).png" width="420" height="297" style="max-width: 100%;">
